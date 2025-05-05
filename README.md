@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">hexa</h1>
 
-<!--
-**heyhexadecimal/heyhexadecimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>error-handling my existence in real-time</em></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Sorcerer;Solana+Dreamweaver;React+%7C+NestJS+%7C+Framer+Motion;Building+forks+that+stab+reality" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 currently juggling
+- 🧠 building digital realms — from VS Code extensions to GitHub analytics cults
+- ⛩️ curating the best of CS into a single devverse
+- ⛓️ exploring Solana-based collectibles with anime soul
+- ✍️ journaling bytes & bugs in poetic fashion
+
+---
+
+### 🛠️ tech stack
+```ts
+const stack = [
+  'TypeScript', 'React', 'Next.js', 'Node.js',
+  'NestJS', 'Framer Motion', 'MongoDB',
+  'TailwindCSS', 'C++', 'Python', 'Solana soon'
+];
