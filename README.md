@@ -44,29 +44,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </div>
 
-## 現在 Working On
+## 夢 Dreams & Goals
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" width="48" height="48" alt="VS Code" /><br>
-        VS Code AI Extension
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="48" height="48" alt="Solana" /><br>
-        Anime Trading Platform
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/framer/motion/main/packages/framer-motion/README/framer.png" width="48" height="48" alt="Framer Motion" /><br>
-        Animated Window UIs
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-markdown-open.svg" width="48" height="48" alt="DevVerse" /><br>
-        CS DevVerse
-      </td>
-    </tr>
-  </table>
+  
+```
+⟡ Building code that feels like art
+⟡ Creating digital worlds that inspire others
+⟡ Mastering Japanese (平仮名 ✓ | 片仮名 ⟳ | 漢字 ⟳)
+⟡ Visiting Japan and exploring anime culture
+⟡ Crafting digital tools that enhance mental wellness
+⟡ Building a community of developers who code with poetic sensibility
+```
+
 </div>
 
 <div align="center">
@@ -83,6 +73,7 @@ Writing commits like I'm casting spells.
 </div>
 
 <!-- 
-日本語を勉強しています。平仮名を完成しました。片仮名を学んでいます。
+This digital void is my canvas.
+I pull all-nighters till 7AM.
 One Piece が大好きです。
 -->
